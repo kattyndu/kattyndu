@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋🏾</h1>
-<p align='center'>I am a Software Engineer focused on Python🐍. </p>
+<p align='center'>I am a Software Developer focused on Python🐍. </p>
 <p align='center'>
 <a href="https://twitter.com/katty_ndu">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
